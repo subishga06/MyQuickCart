@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "build": {
+    "env": {},
+    "commands": {
+      "install": "npm ci",
+      "build": "npm run build"
+    }
+  }
+}
